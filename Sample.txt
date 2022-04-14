@@ -1,1 +1,2 @@
+Adding a new modification from clone
 new sample1
